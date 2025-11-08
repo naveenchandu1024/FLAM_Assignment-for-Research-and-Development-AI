@@ -15,7 +15,7 @@ L1 = 12730.2516
 \left(t*\cos(0.4881)-e^{0.0205\left(t\right)}*\sin(0.3t)*\sin(0.4881)+54.6488  ,  \ 42+t*\sin(0.4881)+e^{0.0205\left(t\right)}*\sin(0.3t)*\cos(0.4881)\right)
 
 
-
+![image alt](https://github.com/naveenchandu1024/FLAM_Assignment-for-Research-and-Development-AI/blob/main/demos_parametric.png?raw=true)
 
 
 
