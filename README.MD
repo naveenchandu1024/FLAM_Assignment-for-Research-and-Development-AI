@@ -53,7 +53,7 @@ Goal: Estimate these parameters such that the predicted curve matches the given 
 Loaded `xy_data.csv` (1500 points). Verified that only (x, y) values were provided.
 
 ### **Step 3 — Estimating t (Parameterization)**
-Used **non-linear parameterization** based on cumulative arc-length and adaptive scaling.
+Used **arc-length parameterization** based on cumulative arc-length and adaptive scaling.
 This ensures smooth and non-uniform spacing along the curve for realistic fitting.
 
 ### **Step 4 — Building the Model**
