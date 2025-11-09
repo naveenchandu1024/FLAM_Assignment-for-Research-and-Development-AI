@@ -17,6 +17,10 @@ L1 = 12730.2516
 
 ![image alt](https://github.com/naveenchandu1024/FLAM_Assignment-for-Research-and-Development-AI/blob/main/demos_parametric.png?raw=true)
 
+The link for Parametric Graphing:
+
+https://www.desmos.com/calculator/9pasanvziw
+
 
 
 ![image alt](https://github.com/naveenchandu1024/FLAM_Assignment-for-Research-and-Development-AI/blob/main/data/fit.png?raw=true)
